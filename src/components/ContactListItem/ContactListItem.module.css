@@ -1,0 +1,8 @@
+.contactListItem {
+  border-collapse: separate;
+  margin-bottom: 10px;
+}
+
+.contactListData {
+  padding-right: 10px;
+}
